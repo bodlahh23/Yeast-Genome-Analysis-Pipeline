@@ -1,10 +1,10 @@
-*Yeast Genome Analysis Pipeline
+*Yeast Genome Analysis Pipeline*
 Scalable R pipeline for parsing multi-chromosome yeast genomic sequences, computing nucleotide composition, quantifying GC content, simulating gene expression levels, and performing statistical analysis with publication-quality visualizations.
 
 Built using Biostrings and ggplot2.
 
 
-**Project Overview
+**Project Overview**
 Genomic sequence composition varies across chromosomes and can influence structural and functional properties such as transcriptional activity.
 
 This project:
@@ -17,13 +17,13 @@ This project:
 
 The pipeline is modular and scalable for larger genomic datasets.
 
-**Tools & Technologies
+**Tools & Technologies**
 - R
 - Biostrings (Bioconductor) — sequence parsing & nucleotide frequency analysis
 - ggplot2 — statistical visualization
 - Base R statistical testing (one-way ANOVA equivalent, linear modeling)
 
-**Pipeline Workflow
+**Pipeline Workflow**
 1.Sequence Parsing
 - Reads multiple chromosome .txt sequence files
 - - Cleans and concatenates sequence lines

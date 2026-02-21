@@ -1,4 +1,5 @@
 *Yeast Genome Analysis Pipeline*
+
 Scalable R pipeline for parsing multi-chromosome yeast genomic sequences, computing nucleotide composition, quantifying GC content, simulating gene expression levels, and performing statistical analysis with publication-quality visualizations.
 
 Built using Biostrings and ggplot2.

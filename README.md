@@ -2,7 +2,7 @@
 
 Scalable R pipeline for parsing yeast genomic sequences, computing nucleotide composition, quantifying GC content, simulating gene expression levels, and performing statistical analysis with publication-quality visualizations.
 
-Built using **Biostrings** and **ggplot2**.
+Built using Biostrings and ggplot2.
 
 ---
 

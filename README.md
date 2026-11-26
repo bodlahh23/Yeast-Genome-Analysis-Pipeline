@@ -4,8 +4,8 @@ Scalable R pipeline for parsing multi-chromosome yeast genomic sequences, comput
 
 Built using Biostrings and ggplot2.
 
-
 **Project Overview**
+
 Genomic sequence composition varies across chromosomes and can influence structural and functional properties such as transcriptional activity.
 
 This project:

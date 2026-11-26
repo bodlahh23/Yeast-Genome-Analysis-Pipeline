@@ -284,7 +284,7 @@ Processed datasets are exported for downstream analyses and reproducibility.
 
 ## Figure 1. Distribution of GC Content
 
-**Generated File:** `Distribution of GC Content.png`
+![Distribution of GC Content](Yeast-Genome-Analysis-Pipeline/gc_content_distribution.png)
 
 **Caption**
 

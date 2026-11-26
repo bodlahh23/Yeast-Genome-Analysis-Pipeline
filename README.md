@@ -149,7 +149,7 @@ Processed datasets are exported for reproducibility and downstream analyses.
 
 ## Figure 2. Distribution of Gene Lengths
 
-gene_length_distribution.png
+![Distribution of GC Content](gene_length_distribution.png)
 
 **Caption:** Histogram displaying the distribution of gene lengths (base pairs). The distribution is strongly right-skewed, with most genes falling between approximately 500 and 2,500 bp and a smaller number of substantially longer genes extending beyond 5,000 bp.
 
@@ -157,7 +157,8 @@ gene_length_distribution.png
 
 ## Figure 3. GC Content vs Expression Level
 
-gc_vs_expression.png
+![Distribution of GC Content](gc_vs_expression.png)
+
 
 **Caption:** Scatterplot illustrating the relationship between GC content (%) and simulated gene expression levels. Each point represents a gene sequence, while the fitted linear regression line and confidence interval summarize the overall trend between nucleotide composition and expression characteristics. The near-horizontal trendline suggests little evidence of a strong association in the simulated dataset.
 
